@@ -95,6 +95,6 @@
   <!-- Legal Disclaimer HoYoverse with Link -->
   <p>
     <sub><b>📝 Legal Disclaimer:</b><br>
-    The character graphics and animations used in this profile are the intellectual property of <a href="https://www.hoyoverse.com/en-us/terms" target="_blank">HoYoverse (COGNOSPHERE PTE. LTD.)</a>.<br>They are used purely for personal, non-commercial decorative purposes in accordance with HoYoverse's <a href="https://www.hoyolab.com/article/1372702" target="_blank">Fan-Made Content Guidelines</a>. No copyright infringement is intended.</sub>
+    The character graphics and animations used in this profile are the intellectual property of <a href="https://account.hoyoverse.com/#/about/userAgreement" target="_blank">HoYoverse (COGNOSPHERE PTE. LTD.)</a>.<br>They are used purely for personal, non-commercial decorative purposes in accordance with HoYoverse's <a href="https://www.hoyolab.com/article/1372702" target="_blank">Fan-Made Content Guidelines</a>. No copyright infringement is intended.</sub>
   </p>
 </div>
