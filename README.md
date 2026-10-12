@@ -3,7 +3,6 @@
 # 🌸 Hello There! I'm Hyuga 🌸
 ### Welcome to my little corner of the internet ~ 🍡✨
 
-<!-- GIF sudah diganti pakai sumber Giphy yang stabil -->
 <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="350" alt="anime-cute-typing-gif"/>
 
 *✧･ﾟ: *✧･ﾟ:* 　　 *:･ﾟ✧*:･ﾟ✧*
@@ -18,13 +17,13 @@
 
 ---
 
-### 🎀 About Me (୨୧•͈ᴗ•͈) 
+### 🎀 About Me (୨୧•͈ᴗ•͈) ( He / Him )
 
-* 🔭 **Currently working on:** Some awesome secret projects!
+* 🔭 **Currently working on:** SNBTSekai & My Loved Secret Project!
 * 🌱 **Currently learning:** New web frameworks & creative UI/UX design.
-* ☁️ **My hobbies:** Watching anime, coding late at night with lofi, and gaming!
+* ☁️ **My hobbies:** Watching anime, coding late at night with Radwimps, and gaming!
 * 🍓 **Fun fact:** I can debug my code better after a cup of tea. 🍵
-* 💌 **Reach me at:** [Email kamu di sini]
+* 💌 **Reach me at:** Farrelhyuga@student.uns.ac.id
 
 ---
 
