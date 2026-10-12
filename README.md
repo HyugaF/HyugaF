@@ -3,7 +3,7 @@
 # 🌸 Hiiii~ I'm Hyuga! ❄️
 ### *"Planting the Seed of Memory, so flowers of the past may bloom tomorrow..."* 
 
-<img src="https://media1.tenor.com/m/w5Y5Vz6KozQAAAAd/elysia-honkai-impact.gif" width="350" alt="Cyrene GIF"/>
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHNwbGEzeXI1Mnd6djY0Nmt2anNiYmJhMGhkZG84dTkydXV4cjkwbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9LTsNQjU4ZL8qdZMkl/giphy.gif" width="350" alt="Cyrene GIF"/>
 
 <br>
 
