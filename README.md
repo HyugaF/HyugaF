@@ -7,7 +7,11 @@
 
 <br>
 
-**`Software Developer`** ✦ **`Ice Remembrance`** ✦ **`Creative Coder`**
+
+*✧･ﾟ: *✧･ﾟ:* 　　 *:･ﾟ✧*:･ﾟ✧*
+
+
+**`Software Developer`** ✦ **`Anime Enthusiast`** ✦ **`Creative Coder`**
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=HyugaF&color=ffb6c1&style=flat-square&label=Profile+Views" alt="Profile Views" />
@@ -17,12 +21,12 @@
 
 ---
 
-### ❄️ About Me 
+### ❄️ About Me (୨୧•͈ᴗ•͈) ( He / Him )
 
 * 🏹 **Current Focus:** Building awesome web apps and exploring new frameworks.
-* 🌱 **Currently Learning:** React, Node.js, atau AI
+* 🌱 **Currently Learning:** C++, React, Node.js, & AI
 * 🌸 **Hobbies:** Archiving memories, coding late at night, and gaming
-* 🔮 **Fun Fact:** I code better when accompanied by my Memosprite, Demiurge~
+* 🔮 **Fun Fact:** I code better when accompanied by my beautiful tea~
 * 💌 **Contact Me:** farrelhyuga@student.uns.ac.id
 
 ---
@@ -67,13 +71,13 @@
 ### 💎 Let's Connect! 
 
 <div align="center">
-  <a href="https://twitter.com/TwitterKamu">
+  <a href="https://twitter.com/">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&color=ffb6c1" alt="Twitter"/>
   </a>
-  <a href="https://linkedin.com/in/LinkedInKamu">
+  <a href="https://www.linkedin.com/in/farrel-hyuga-adeyahyan-ab8479340/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&color=ffb6c1" alt="LinkedIn"/>
   </a>
-  <a href="https://discord.com/users/DiscordKamu">
+  <a href="https://discord.com/users/715138110652022847">
     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white&color=ffb6c1" alt="Discord"/>
   </a>
 </div>
@@ -84,4 +88,13 @@
   <!-- GIF Penutup yang Estetik -->
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2RpcGcxbG4wcHRsdXdoNTFxZXkyc3dzb3kzNndpcXNxdHp1MmtvOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VRyWfqrHoCPZQ81Puh/giphy.gif" width="160" alt="cute-bye-gif"/>
   <p><i>"Now, let's write a different kind of poem together♪"</i></p>
+</div>
+
+  <br>
+  
+  <!-- Legal Disclaimer HoYoverse with Link -->
+  <p>
+    <sub><b>📝 Legal Disclaimer:</b><br>
+    The character graphics and animations used in this profile are the intellectual property of <a href="https://www.hoyoverse.com/en-us/terms" target="_blank">HoYoverse (COGNOSPHERE PTE. LTD.)</a>.<br>They are used purely for personal, non-commercial decorative purposes in accordance with HoYoverse's <a href="https://www.hoyolab.com/article/1372702" target="_blank">Fan-Made Content Guidelines</a>. No copyright infringement is intended.</sub>
+  </p>
 </div>
